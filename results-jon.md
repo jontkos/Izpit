@@ -41,9 +41,6 @@ Using arrays would be much simpler solution.
 
 **Style** `30/30%`
 
-From 35-60 code duplicates. Use functions. City_winner is manually typed from data, which is something
-program should do from original data.
-
 **Code readability** `18/20%`
 
 [Functions and variables should be lowercase, with words separated by underscores as necessary to improve readability.] (https://www.python.org/dev/peps/pep-0008/#function-and-variable-names)
