@@ -121,8 +121,8 @@ Very hard to understand variable names
 #### Criteria
  `0% - 49%` : Didn't pass.
 
- `50% - 64%`: **Talk about the test solution, if there is insufficient knowledge about solved test, didn't pass.**
+ `50% - 64%`: Talk about the test solution, if there is insufficient knowledge about solved test, didn't pass.
 
- `65% - 100%`: Passed
+ `65% - 100%`: **Passed**
 
  `101% - 110%`: Passed and you get a 6pack of some good beer. Choose dark or light :)
